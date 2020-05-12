@@ -5,3 +5,9 @@ This repository contains Python notebook which contains creation of simple neura
 
 <h3>Dataset</h3>
 <img src="snapshots/dataset.PNG">
+<h3>Testing results</h3>
+<img src="snapshots/output.PNG">
+<br>
+<h3>Developer</h3>
+
+<p><i>Harsh Patel</i></p>
